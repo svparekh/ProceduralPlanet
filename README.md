@@ -1,2 +1,9 @@
 # ProceduralPlanet
-Procedurally generated planet using ray marching in OpenGL
+
+## Overview
+
+Procedurally generated planet using ray marching and perlin noise in OpenGL
+
+## Controls
+
+## Techniques

@@ -1,0 +1,13 @@
+﻿  gl_core_3_3.c
+  glstate.cpp
+  main.cpp
+  util.cpp
+  camera.cpp
+  planet.cpp
+  procedural.cpp
+  Generating code
+  388 of 1038 functions (37.4%) were compiled, the rest were copied from previous compilation.
+    207 functions were new in current compilation
+    62 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  base_freeglut.vcxproj -> C:\Users\Setul\Downloads\ece30834\Final\final_setul\x64\Release\base_freeglut.exe
