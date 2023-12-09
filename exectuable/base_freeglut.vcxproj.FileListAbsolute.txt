@@ -1,2 +1,0 @@
-C:\Users\SP\Downloads\a2-base\submission\base\x64\Release\base_freeglut.exe
-C:\Users\Setul\Downloads\ece30834\Final\final_setul\x64\Release\base_freeglut.exe
