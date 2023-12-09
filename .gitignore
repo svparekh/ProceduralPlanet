@@ -1,4 +1,4 @@
 Debug/
 Release/
 .vs/
-executable/base_freeglut.tlog/
+base_freeglut.tlog/
