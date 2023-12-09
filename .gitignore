@@ -2,3 +2,6 @@ Debug/
 Release/
 .vs/
 base_freeglut.tlog/
+base_freeglut.vcxproj.FileListAbsolute.txt
+base_freeglut.log
+base_freeglut.exe.recipe
