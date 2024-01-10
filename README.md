@@ -25,10 +25,14 @@ Procedurally generated planet using ray marching and Perlin noise in OpenGL
 
 ## Sources
 
+https://celarek.at/tag/ray-marching/
+
+https://learnopengl.com/Advanced-Lighting/Advanced-Lighting
+
 https://www.cs.umd.edu/class/spring2018/cmsc425/Lects/lect13-2d-perlin.pdf
+
+https://developer.nvidia.com/gpugems/gpugems3/part-v-physics-simulation/chapter-34-signed-distance-fields-using-single-pass-gpu#:~:text=A%20signed%20distance%20field%20is,outside%20the%20object%20is%20applied.
 
 https://www.youtube.com/watch?v=lctXaT9pxA0
 
 https://www.youtube.com/watch?app=desktop&v=z29BiRqnqiA
-
-https://celarek.at/tag/ray-marching/
