@@ -117,18 +117,18 @@ Procedural:
 - Fractal Brownian Motion
     
     ```glsl
-    float fbm(vec3 samplePoint){
-        float sum = 0;
-        float amplitude = 1;
-        float frequency = 1;
-        // increase frequency, decrease amplitude per iteration
-        for (int i = 0; i < fbmIterations; i++) {
-            sum += getNoiseAt(samplePoint * frequency) * amplitude; 
-            frequency *= 2;
-            amplitude *= 0.5;
+        float fbm(vec3 samplePoint){
+            float sum = 0;
+            float amplitude = 1;
+            float frequency = 1;
+            // increase frequency, decrease amplitude per iteration
+            for (int i = 0; i < fbmIterations; i++) {
+                sum += getNoiseAt(samplePoint * frequency) * amplitude; 
+                frequency *= 2;
+                amplitude *= 0.5;
+            }
+            return sum;
         }
-        return sum;
-    }
     ```
     
 
