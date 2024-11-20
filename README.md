@@ -142,7 +142,7 @@ User Control:
 - User can click to add terrain
     - Undo and Save also available
 
-**Colored Terrain**
+#### Colored Terrain
 
 - Height based color with material lerp depending on height (for smooth fade)
     
