@@ -11,21 +11,21 @@ This application is developed using OpenGL, FreeGLUT, and C++ to create a proced
 - Varying Color
 - Continents
 
-![Motivation Image 1](assets/image1.png)
+![Motivation Image 1](https://raw.githubusercontent.com/svparekh/ProceduralPlanet/main/assets/image1.png)
 
 *Planet Concept 1*
 
-![Motivation Image 3](assets/image3.png)
+![Motivation Image 3](https://raw.githubusercontent.com/svparekh/ProceduralPlanet/main/assets/image3.png)
 
 *Planet Concept 2*
 
-![Motivation Image 2](assets/image2.png)
+![Motivation Image 2](https://raw.githubusercontent.com/svparekh/ProceduralPlanet/main/assets/image2.png)
 
 *Procedural Terrain Generation Concept*
 
 ## Results
 
-![Result image of planet](assets/image4.png)
+![Result image of planet](https://raw.githubusercontent.com/svparekh/ProceduralPlanet/main/assets/image4.png)
 
 ## Controls
 
@@ -75,7 +75,7 @@ This application is developed using OpenGL, FreeGLUT, and C++ to create a proced
 
 ### Shading
 
-![Ray marching visualization image](assets/image5.png)
+![Ray marching visualization image](https://raw.githubusercontent.com/svparekh/ProceduralPlanet/main/assets/image5.png)
 
 *Visualization of how Ray Marching works*
 
@@ -106,7 +106,7 @@ This application is developed using OpenGL, FreeGLUT, and C++ to create a proced
 
 ### Terrain Generation
 
-![Perlin noise generation visualization image](assets/image6.png)
+![Perlin noise generation visualization image](https://raw.githubusercontent.com/svparekh/ProceduralPlanet/main/assets/image6.png)
 
 *Visualization of the generational process concerning Perlin Noise*
 
